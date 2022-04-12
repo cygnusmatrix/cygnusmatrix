@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @cygnusmatrix
+- 👀 I’m interested in how abstract mathematics apply to cybersecurity
+- 🌱 I’m currently learning Python and linear algebra
+- 💞️ I’m looking to research EMFI
+- 📫 Thanks for coming to my TedTalk!
